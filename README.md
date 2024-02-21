@@ -34,7 +34,7 @@ Following are the steps followed:
 - model deployment on hardware
 
 The technical flow diagram showing the implimentation details is as shown below:
-![Flow diagram]()
+![Flow diagram](Ubiquitous_flow_diagram.svg)
 
 
 
