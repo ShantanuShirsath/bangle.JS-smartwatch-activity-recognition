@@ -48,4 +48,8 @@ The technical flow diagram showing the implimentation details is as shown below:
 ## Demo
 
 
+https://github.com/ShantanuShirsath/bangle.JS-smartwatch-activity-recognition/assets/130396026/43adf9bc-1419-4223-b94b-d8d0311f77ad
+
+
+
 
